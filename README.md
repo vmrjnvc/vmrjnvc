@@ -5,7 +5,7 @@ I'm **Vuk**, a software developer from Serbia.
 
 - Student of information technologies
 - Mostly interested in web development
-- Currently working on applications based on React tech
+- Currently working on applications based on React
   - I'm looking to contribute to open source projects
 - Like to solve algorithm challanges [<img height='20' align='center' src='https://www.codewars.com/users/vmrjnvc/badges/micro'/>](https://www.codewars.com/users/vmrjnvc/)
 
