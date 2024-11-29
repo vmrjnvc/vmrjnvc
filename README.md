@@ -3,9 +3,8 @@
 I'm **Vuk**, a software developer from Serbia.
 [<img width='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://rs.linkedin.com/in/vmrjnvc)
 
-- Student of information technologies
 - Mostly interested in web development
-- Currently working on applications based on React
+- Currently working on applications based on Nuxt/Vue stack
 	- I'm looking to contribute to open source projects
 - Like to solve algorithm challanges 
  [<img height='20' src='https://www.codewars.com/users/vmrjnvc/badges/micro'/>](https://www.codewars.com/users/vmrjnvc/)
